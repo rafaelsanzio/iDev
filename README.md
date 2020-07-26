@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img style="width: 25%" alt="iDev" src="https://www.idev.com.br/wp-content/themes/idev/images/logo.png" />
+    <img style="width: 50%" alt="iDev" src="https://user-images.githubusercontent.com/18368947/88479901-f2f4ea80-cf28-11ea-866e-377b8e2d7a49.png" />
 </h1>
 
 ## 🔖  Sobre o desfio
