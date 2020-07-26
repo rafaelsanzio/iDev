@@ -9,7 +9,7 @@ import (
 
 const (
 	enterprise  = "iDev Soluções"
-	about       = "API developed to read a JSON file showing (avarage, trend and usage trend) of servers"
+	about       = "API developed to read a JSON file showing (avarage, mode and usage trend) of servers"
 	projectLink = "github.com/rafaelsanzio/iDev"
 	creator     = "Rafael Sanzio"
 )
